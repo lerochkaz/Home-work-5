@@ -1,0 +1,15 @@
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.csproj.AssemblyReference.cache
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.AssemblyInfoInputs.cache
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.AssemblyInfo.cs
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.csproj.CoreCompileInputs.cache
+D:\projects\Examples\Home work 5\Task 36\bin\Debug\net6.0\Task 36.exe
+D:\projects\Examples\Home work 5\Task 36\bin\Debug\net6.0\Task 36.deps.json
+D:\projects\Examples\Home work 5\Task 36\bin\Debug\net6.0\Task 36.runtimeconfig.json
+D:\projects\Examples\Home work 5\Task 36\bin\Debug\net6.0\Task 36.dll
+D:\projects\Examples\Home work 5\Task 36\bin\Debug\net6.0\Task 36.pdb
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.dll
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\refint\Task 36.dll
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.pdb
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\Task 36.genruntimeconfig.cache
+D:\projects\Examples\Home work 5\Task 36\obj\Debug\net6.0\ref\Task 36.dll
